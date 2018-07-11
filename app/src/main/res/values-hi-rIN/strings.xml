@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Just Java</string>
+    <string name="quantity">मात्रा</string>
+    <string name="price">"आदेश सारांश "</string>
+    <string name="toppings">"टॉपिंग "</string>
+    <string name="name">नाम</string>
+    <string name="enterName">"अपना नाम दर्ज करें "</string>
+    <string name="maxCoffee">"अधिकतम सौ कॉफी का आदेश दिया जा सकता है "</string>
+    <string name="minCoffee">"न्यूनतम एक कॉफी का आदेश दिया जा सकता है "</string>
+    <string name="thank">" धन्यवाद!"</string>
+    <string name="order_summary_name">नाम: <xliff:g example="Sambit" id="name">%s</xliff:g></string>
+    <string name="order_summary_q">मात्रा : <xliff:g example="1" id="quan">%o</xliff:g></string>
+    <string name="order_summary_t">कुल: <xliff:g example="$1" id="tot">%s</xliff:g></string>
+    <string name="order">आदेश</string>
+</resources>
